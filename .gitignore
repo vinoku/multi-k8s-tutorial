@@ -1,3 +1,4 @@
 .DS_Store
 .idea
-ª
+server/node_modules
+worker/node_modules
